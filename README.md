@@ -1,2 +1,2 @@
 # Kalamly
-API First Open Source Assessment Platform
+AI & API First Open Source Assessment Platform.
